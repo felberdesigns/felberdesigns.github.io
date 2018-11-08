@@ -52,6 +52,19 @@ align-content: center;
     height: 100px;
   }
 
+.navWrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 1em;
+  align-content: center;
+}
+
+.nav {
+  background: #933c3c;
+  padding: 1em;
+  text-align: center;  
+}
+
 
 @media (min-width: 68em) {
 
