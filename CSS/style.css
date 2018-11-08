@@ -1,22 +1,25 @@
 
 body {
   background: #2a303a;  /* fallback for old browsers */
+  margin: 0;
 }
 
 .bodyWrap {
   height: 100vh;
 max-width: 1450px;
 margin: 0 auto;
+display: grid;
+align-content: center;
 }
 
 .Iam {
-  padding: 2em 5em;
+  margin: 0 auto;
   font-size:75px;
   font-family: 'Unica One', cursive;
-  color: #999;
+  color: #59656f;
 }
 .Iam p {
-  height: 50px;
+  height: 75px;
   float: left;
   margin-right: 0.3em;
 }
@@ -25,11 +28,11 @@ margin: 0 auto;
   overflow: hidden;
   position: relative;
   height: 75px;
-  top: 65px;
+  top: 75px;
 }
 .Iam .innerIam {
   display: inline-block;
-  color: #e74c3c;
+  color: #933c3c;
   position: relative;
   white-space: nowrap;
   top: 0;
