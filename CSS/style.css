@@ -68,7 +68,8 @@ margin: 0 auto;
   padding: 1em;
   text-align: center;
   color: #fff;
-text-transform: uppercase; }
+text-transform: uppercase;
+position: relative;}
 
 .navItem:after {
     content: '';
