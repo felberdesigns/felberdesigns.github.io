@@ -1,8 +1,6 @@
 
 body {
-  background: #108dc7;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #ef8e38, #108dc7);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #ef8e38, #108dc7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #2a303a;  /* fallback for old browsers */
 }
 
 .bodyWrap {
@@ -13,7 +11,7 @@ margin: 0 auto;
 
 .Iam {
   padding: 2em 5em;
-  font: normal 40px/50px Montserrat, sans-serif;
+  font: normal 75px Unica One, sans-serif;
   color: #999;
 }
 .Iam p {
@@ -25,8 +23,8 @@ margin: 0 auto;
   float: left;
   overflow: hidden;
   position: relative;
-  height: 50px;
-  top: 40px;
+  height: 75px;
+  top: 65px;
 }
 .Iam .innerIam {
   display: inline-block;
@@ -57,38 +55,38 @@ margin: 0 auto;
         animation-delay:0s;
 }
 @keyframes move{
-0%  { top: -50px; }
+0%  { top: -75px; }
 25% { top: -100px; }
 50% { top: -150px; }
 75% { top: 0px; }
-100% { top: -50px; }   
+100% { top: -75px; }
 }
 
 @-webkit-keyframes move {
-0%  { top: -50px; }
+0%  { top: -75px; }
 25% { top: -100px; }
 50% { top: -150px; }
 75% { top: 0px; }
-100% { top: -50px; }   
+100% { top: -75px; }
 }
 @-moz-keyframes move {
-0%  { top: -50px; }
+0%  { top: -75px; }
 25% { top: -100px; }
 50% { top: -150px; }
 75% { top: 0px; }
-100% { top: -50px; }  
+100% { top: -75px; }
 }
 @-o-keyframes move {
-0%  { top: -50px; }
+0%  { top: -75px; }
 25% { top: -100px; }
 50% { top: -150px; }
 75% { top: 0px; }
-100% { top: -50px; }  
+100% { top: -75px; }
 }
 @keyframes move {
-0%  { top: -50px; }
+0%  { top: -75px; }
 25% { top: -100px; }
 50% { top: -150px; }
 75% { top: 0px; }
-100% { top: -50px; }  
+100% { top: -75px; }
 }
