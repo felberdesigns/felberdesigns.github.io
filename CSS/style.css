@@ -43,6 +43,11 @@ align-content: center;
   top: 0;
   left: 0;}
 
+  .contentBox {
+    background: #59656f;
+    height: 100px;
+  }
+
 
 @media (min-width: 68em) {
 
