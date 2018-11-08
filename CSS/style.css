@@ -84,7 +84,7 @@ left: 50%;
     margin: 0%;
 }
 
-.mainNavItem:hover:after {
+.navItem:hover:after {
     width: 100%;
 height: 100%;
  animation: fill 1s forwards;
