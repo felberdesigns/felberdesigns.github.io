@@ -11,7 +11,8 @@ margin: 0 auto;
 
 .Iam {
   padding: 2em 5em;
-  font: normal 75px Unica One, sans-serif;
+  font-size:75px;
+  font-family: 'Unica One', cursive;
   color: #999;
 }
 .Iam p {
