@@ -30,6 +30,11 @@ align-content: center;
   height: 75px;
   top: 75px;
 }
+
+.innerIam {
+  text-align: right;
+}
+
 .Iam .innerIam {
   display: inline-block;
   color: #933c3c;
