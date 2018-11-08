@@ -21,8 +21,8 @@ align-content: center;
 .Iam p {
   height: 75px;
   float: left;
-  margin-right: 0.3em;
 }
+
 .Iam b {
   float: left;
   overflow: hidden;
