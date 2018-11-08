@@ -62,10 +62,11 @@ align-content: center;
 margin: 0 auto;
 }
 
-.nav {
+.navItem {
   background: #933c3c;
   padding: 1em;
   text-align: center;
+  color: #fff;
 }
 
 
