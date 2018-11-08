@@ -21,6 +21,7 @@ align-content: center;
   font-size:75px;
   font-family: 'Unica One', cursive;
   color: #59656f;
+  padding-right: 2em;
 }
 .Iam p {
   height: 75px;
@@ -57,12 +58,14 @@ align-content: center;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-column-gap: 1em;
   align-content: center;
+  width: 100%;
+margin: 0 auto;
 }
 
 .nav {
   background: #933c3c;
   padding: 1em;
-  text-align: center;  
+  text-align: center;
 }
 
 
