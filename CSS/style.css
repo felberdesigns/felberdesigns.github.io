@@ -64,7 +64,7 @@ margin: 0 auto;
 }
 
 .navItem {
-  background: #933c3c;
+  background: #2a303a;
   padding: 1em;
   text-align: center;
   color: #fff;
@@ -79,7 +79,7 @@ bottom: 0;
 left: 50%;
     width: 0;
     height: 2px;
-    background: #353535;
+    background: #933c3c;
     transition: width .75s ease-in-out, height .75s ease-in-out .75s;
     margin: 0%;
 }
