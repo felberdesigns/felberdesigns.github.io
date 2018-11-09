@@ -65,7 +65,7 @@ margin: 0 auto;
 }
 
 .navItem {
-  background: #2a303a;
+  background: transparent;
   padding: 1em;
   text-align: center;
   color: #fff;
