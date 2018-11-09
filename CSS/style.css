@@ -5,7 +5,6 @@ body {
 }
 
 .bodyWrap {
-  height: 100vh;
 max-width: 100%;
 display: grid;
 position: -webkit-sticky;
