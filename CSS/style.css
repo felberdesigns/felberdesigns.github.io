@@ -71,9 +71,9 @@ align-content: center;
 .navWrap {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-column-gap: 1em;
+  grid-column-gap: 3em;
   align-content: center;
-  width: 100%;
+  width: 80%;
 margin: 0 auto;
   position: relative;
 }
@@ -97,7 +97,7 @@ right: 50%;
     width: 0;
     height: 2px;
     background: #933c3c;
-    transition: left .75s ease-in-out, right .75s ease-in-out, width .75s ease-in-out, border-radius 2.5s ease-in-out, height .75s ease-in-out .75s;
+    transition: left .75s ease-in-out, right .75s ease-in-out, width .75s ease-in-out, border-radius 2.5s ease-in-out, height 1.25s ease-in-out .75s;
     margin: 0%;
     border-radius: 100px 100px 0 0;
 }
