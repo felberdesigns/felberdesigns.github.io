@@ -74,6 +74,7 @@ align-content: center;
   grid-column-gap: 3em;
   align-content: center;
   width: 80%;
+  padding-top: .25em;
 margin: 0 auto;
   position: relative;
 }
@@ -96,7 +97,7 @@ left: 50%;
 right: 50%;
     width: 0;
     height: 2px;
-    background: #933c3c;
+    background: linear-gradient(to bottom, rgba(147,60,60,1) 0%,rgba(117,49,48,1) 100%);
     transition: left .75s ease-in-out, right .75s ease-in-out, width .75s ease-in-out, border-radius 2.5s ease-in-out, height 1.25s ease-in-out .75s;
     margin: 0%;
     border-radius: 100px 100px 0 0;
