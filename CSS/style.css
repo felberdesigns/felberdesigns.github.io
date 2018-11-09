@@ -54,7 +54,11 @@ align-content: center;
 
   .contentBox {
     background: #59656f;
-    height: 100px;
+  }
+
+  .contentBox p {
+    display: block;
+    padding: 1em;
   }
 
 .navWrap {
