@@ -7,14 +7,20 @@ body {
 .bodyWrap {
 max-width: 100%;
 display: grid;
-position: -webkit-sticky;
-position: sticky;
-top: -75px;
 align-content: center;
 }
 
+.headerWrap {
+  width: 100%;
+  position: -webkit-sticky;
+  position: sticky;
+  top: -75px;
+  background: #2a303a;
+}
+
 .siteWrap {
-  max-width: 1450px;
+  max-width: 1200px;
+  padding: 0 1em;
   margin: 0 auto;
 }
 
@@ -72,10 +78,10 @@ margin: 0 auto;
 
 .navItem {
   background: transparent;
+  font-family: 'Unica One', cursive;
   padding: 1em;
   text-align: center;
   color: #fff;
-text-transform: uppercase;
 position: relative;}
 
 .navItem:after {
