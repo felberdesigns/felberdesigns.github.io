@@ -15,6 +15,7 @@ align-content: center;
   position: -webkit-sticky;
   position: sticky;
   top: -75px;
+  margin-top: 35vh;
   background: #2a303a;
 }
 
@@ -26,11 +27,12 @@ align-content: center;
 
 .Iam {
   margin: 0 auto;
+  width: 45%;
   font-size:75px;
   font-family: 'Unica One', cursive;
   color: #59656f;
-  padding: 0 2em;
-}
+  }
+
 .Iam p {
   height: 75px;
   float: left;
@@ -95,7 +97,7 @@ right: 50%;
     width: 0;
     height: 2px;
     background: #933c3c;
-    transition: left .75s ease-in-out, right .75s ease-in-out, width .75s ease-in-out, border-radius 1.5s ease-in-out, height .75s ease-in-out .75s;
+    transition: left .75s ease-in-out, right .75s ease-in-out, width .75s ease-in-out, border-radius 2.5s ease-in-out, height .75s ease-in-out .75s;
     margin: 0%;
     border-radius: 100px 100px 0 0;
 }
