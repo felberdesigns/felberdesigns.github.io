@@ -83,11 +83,13 @@ right: 50%;
     width: 0;
     height: 2px;
     background: #933c3c;
-    transition: left .75s ease-in-out, right .75s ease-in-out, width .75s ease-in-out, height .75s ease-in-out .75s;
+    transition: left .75s ease-in-out, right .75s ease-in-out, width .75s ease-in-out, border-radius .75s ease-in-out, height .75s ease-in-out .75s;
     margin: 0%;
+    border-radius: 100px 100px 0 0;
 }
 
 .navItem:hover:after {
+  border-radius: 0;
   left:0;
   right: 0;
     width: 100%;
